@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="PAXINNOBIS47DE.DW-GrupoSIE"
+  DTS:DTSID="{109AF685-B6EA-4AD9-94AE-10F51E4182AE}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=PAXINNOBIS47DE;Initial Catalog=DW-GrupoSIE;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-SIE-DW-PACIENTES-{109AF685-B6EA-4AD9-94AE-10F51E4182AE}PAXINNOBIS47DE.DW-GrupoSIE;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
